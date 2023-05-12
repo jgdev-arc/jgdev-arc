@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">In the lab trying to come up with useful ways to combine my history of working with the disabled and tech.</h3>
+<h3 align="center">In the lab trying to come up with useful ways to combine my history of working with the disabled with tech.</h3>
 
 - 🔭 I’m currently working on [Library Application System](https://github.com/jgdev-arc/librarysystem)
 
