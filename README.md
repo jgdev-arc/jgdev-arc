@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend (Java, Spring-boot), Android, Security**
 
-- 👨‍💻 All of my projects are available at [portfolio under construction](portfolio under construction)
+- 👨‍💻 All of my projects are available at [portfolio under construction]
 
 - 💬 In the future I plan on learning -> **Low level programming and Embedded systems**
 
