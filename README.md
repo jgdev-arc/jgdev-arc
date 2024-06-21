@@ -1,7 +1,7 @@
 # :alien: About Me: :alien: 
 
 
-- :male_detective: I'm Jonathan, currently focused on full stack **Java** and **Embedded** and development
+- :male_detective: I'm Jonathan, currently focused on **Java** and **Embedded** development
 
 - :eyes: Always looking to collaborate or talk with other developers!
 
