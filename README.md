@@ -1,13 +1,7 @@
 # :alien: About Me: :alien: 
 
 
-- :male_detective: I'm Jonathan, currently focused on full stack **Java** and **Android** development
-
-- :hammer: I’m in the pre-planning stage for a multimedia app for Android, scheduled to be released on the Google Play Store in Q1 2024
-
-- :school: I'm currently working through Jetbrains Academy (advanced Java and Spring) and 100devs (Javascript)
-
-- :goal_net: Future goals - Learn C/C++ for embedded systems and game engine programming
+- :male_detective: I'm Jonathan, currently focused on full stack **Java** and **Embedded** and development
 
 - :eyes: Always looking to collaborate or talk with other developers!
 
