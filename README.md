@@ -1,7 +1,7 @@
 # :alien: About Me: :alien: 
 
 
-- :male_detective: I'm Jonathan. I like **Java**, **Android**, and **Embedded** development
+- :male_detective: I'm Jonathan. I like **Java**, **Android**, and **Hardware/Embedded** development.
 
 - :eyes: Always looking to collaborate or talk with other developers!
 
