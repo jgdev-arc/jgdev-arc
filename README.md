@@ -1,20 +1,16 @@
 # :alien: About Me: :alien: 
 
 
-- :male_detective: Welcome. Here you'll find projects related to cybersecurity, my favorite languages (Kotlin and C++), and general hardware and embedded systems fun. 
-
-- :eyes: Always looking to collaborate and connect with other developers!
+- :male_detective: Welcome. Current interests include cybersecurity, systems programming, and devops.
 
 <h2>👾 Cybersecurity Projects:</h2>
 
-- <b>Red Team</b>
+- <b>Security Operations</b>
    - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/jgdev-arc/soc-honeynet)
    - [Threat Hunt Report: Masquerading via Renamed System Binary](https://github.com/jgdev-arc/threat-hunt-masquerading-via-renamed-system-binary)
    - [Threat Hunt Report: Process Injection via DLL Injection](https://github.com/jgdev-arc/threat-hunt-process-via-dynamic-link-library-injection)
    - [Windows 10 STIG Remediation Scripts](https://github.com/jgdev-arc/stigs-windows10-remediation)
 
-- <b>Tools</b>
-   - Log Parser / Analyzer in C++ (in progress)
 
 <h2>👨‍💻 IT Projects:</h2>
 
